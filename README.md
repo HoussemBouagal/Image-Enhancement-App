@@ -51,11 +51,13 @@ The web interface provides:
 ### ⚖️ Comparison  
 ![Comparison](assets/Comparison.png)
 
+### 🧠 Feature Visualization  
+![Visualization](assets/visualization.png)
+
 ### 📈 Training Curves  
 ![Training Curves](assets/training_curves.png)
 
-### 🧠 Feature Visualization  
-![Visualization](assets/visualization.png)
+
 
 ---
 
