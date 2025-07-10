@@ -37,22 +37,22 @@ The web interface provides:
 ## 🌐 Web Interface
 
 ### 🖼 Image Upload + Crop  
-![Crop UI](assets/UI.jpg)
+![Crop UI](assets/UI.png)
 
 ### 🖼 Enhanced Results  
-![Enhanced Results](assets/Enhanced_Results.jpg)
+![Enhanced Results](assets/Enhanced_Results.png)
 
 ### 🔄 Processing  
-![Processing](assets/Enhanced_Results.jpg)
+![Processing](assets/Enhanced_Results.png)
 
 ### 🔬 Zoom & Comparison View  
-![Comparison](assets/Zoom.jpg)
+![Comparison](assets/Zoom.png)
 
 ### 📈 Training Curves  
-![Training Curves](assets/training_curves.jpg)
+![Training Curves](assets/training_curves.png)
 
 ### 🧠 Feature Visualization  
-![Visualization](assets/visualization.jpg)
+![Visualization](assets/visualization.png)
 
 ---
 
