@@ -43,7 +43,7 @@ The web interface provides:
 ![Enhanced Results](assets/Enhanced_Results.png)
 
 ### 🔄 Processing  
-![Processing](assets/Enhanced_Results.png)
+![Processing](assets/Processing.png)
 
 ### 🔬 Zoom & Comparison View  
 ![Comparison](assets/Zoom.png)
