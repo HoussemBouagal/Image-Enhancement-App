@@ -134,6 +134,7 @@ ImageEnhancementApp/
 ├── app.py
 ├── model_definitions.py
 ├── requirements.txt
+├── License
 └── README.md
 
 ```
