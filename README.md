@@ -108,7 +108,13 @@ numpy
 ```
 ImageEnhancementApp/
 │
+├── trainlr/
+│   ├── 0001.png
+│   ├── 0002.png
+│   └── 0003.png
+│
 ├── static/
+│   ├── increase.ico
 │   └── assets/
 │       ├── UI.jpg
 │       ├── Enhanced Results.jpg
@@ -129,6 +135,7 @@ ImageEnhancementApp/
 ├── model_definitions.py
 ├── requirements.txt
 └── README.md
+
 ```
 
 ---
