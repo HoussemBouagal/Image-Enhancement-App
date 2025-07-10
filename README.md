@@ -39,14 +39,17 @@ The web interface provides:
 ### 🖼 Image Upload + Crop  
 ![Crop UI](assets/UI.png)
 
-### 🖼 Enhanced Results  
-![Enhanced Results](assets/EnhancedResults.png)
+### 🔬 Zoom & Comparison View  
+![Zoom](assets/Zoom.png)
 
 ### 🔄 Processing  
 ![Processing](assets/Processing.png)
 
-### 🔬 Zoom & Comparison View  
-![Comparison](assets/Zoom.png)
+### 🖼 Enhanced Results  
+![Enhanced Results](assets/EnhancedResults.png)
+
+### ⚖️ Comparison  
+![Comparison](assets/Comparison.png)
 
 ### 📈 Training Curves  
 ![Training Curves](assets/training_curves.png)
