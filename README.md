@@ -40,7 +40,7 @@ The web interface provides:
 ![Crop UI](assets/UI.png)
 
 ### 🖼 Enhanced Results  
-![Enhanced Results](assets/Enhanced Results.png)
+![Enhanced Results](assets/EnhancedResults.png)
 
 ### 🔄 Processing  
 ![Processing](assets/Processing.png)
