@@ -76,8 +76,8 @@ The web interface provides:
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/HoussemBouagal/ImageEnhancementApp.git
-cd ImageEnhancementApp
+git clone https://github.com/HoussemBouagal/Image-Enhancement-App.git
+cd Image-Enhancement-App
 ```
 
 ### 2. Create a virtual environment and install dependencies:
@@ -111,7 +111,7 @@ numpy
 ## 🗂️ Project Structure
 
 ```
-ImageEnhancementApp/
+Image-Enhancement-App/
 │
 ├── trainlr/
 │   ├── 0001.png
