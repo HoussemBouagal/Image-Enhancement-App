@@ -122,7 +122,7 @@ Image-Enhancement-App/
 │   ├── increase.ico
 │   └── assets/
 │       ├── UI.jpg
-│       ├── Enhanced Results.jpg
+│       ├── EnhancedResults.jpg
 │       ├── Processing.jpg
 │       ├── training_curves.jpg
 │       ├── visualization.jpg
